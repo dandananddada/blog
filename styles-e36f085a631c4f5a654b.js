@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{158:function(e,m,o){e.exports={games:"game-module--games--yRPmO",game:"game-module--game--3rMgB",image:"game-module--image--3vdzn",bottomContainer:"game-module--bottom-container--1T9Bz",score:"game-module--score--1E37R",platform:"game-module--platform--cRWIh",name:"game-module--name--V9JFc"}},159:function(e,m,o){},160:function(e,m,o){}}]);
+//# sourceMappingURL=styles-e36f085a631c4f5a654b.js.map

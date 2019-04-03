@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{144:function(n,e,o){"use strict";o.r(e);var t=o(0),l=o.n(t);e.default=function(){return l.a.createElement("p",null,"hello world")}}}]);
+//# sourceMappingURL=component---src-pages-games-2-2015-js-c3be58af1d81a0527629.js.map
